@@ -8,7 +8,7 @@
     "userInterfaceStyle": "automatic",
     "backgroundColor": "#F5F6FA",
     "android": {
-      "package": "com.skibidi.sudokupocket",
+      "package": "com.skibidi.sudoku_pocket",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "monochromeImage": "./assets/adaptive-icon-mono.png",
