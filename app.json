@@ -8,7 +8,7 @@
     "userInterfaceStyle": "automatic",
     "backgroundColor": "#F5F6FA",
     "android": {
-      "package": "com.abdullah9202.sudokupocket",
+      "package": "com.skibidi.sudokupocket",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "monochromeImage": "./assets/adaptive-icon-mono.png",
@@ -43,6 +43,12 @@
         }
       ],
       "expo-status-bar"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "0cdf996c-891b-41ce-8d41-24f1441a64cf"
+      }
+    },
+    "owner": "abdullah9202"
   }
 }
