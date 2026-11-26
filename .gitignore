@@ -15,3 +15,6 @@ credentials.json
 npm-debug.*
 yarn-error.*
 .DS_Store
+
+# My ignores
+PLAY_CONSOLE.md
